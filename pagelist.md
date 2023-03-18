@@ -9,4 +9,4 @@ permalink: /page-list/
 ## Pages
 
 - [About](<{{ site.baseurl }}/about>)
-- [Page List](</> "你还想啥呢，就这篇")
+- [Page List](<{{ site.baseurl }}> "你还想啥呢，就这篇")
