@@ -8,7 +8,7 @@ permalink: /about/
 
 I’m a middle school student
 
-the Blog Discussions: [Go!](<https://github.com/xieyuen/xieyuen.github.io/disscussions>)
+Discussions: [Go!](<https://github.com/xieyuen/xieyuen.github.io/disscussions>)
 
 ### Contact me
 
