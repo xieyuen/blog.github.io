@@ -7,5 +7,3 @@
 [*https://xieyuen.github.io/blog.github.io*](<https://xieyuen.github.io/blog.github.io>) is my personal blog
 
 [Github Repository](<https://github.com/xieyuen/blog.github.io>)
-
-Thanks for
