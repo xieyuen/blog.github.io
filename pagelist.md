@@ -6,7 +6,7 @@ permalink: /page-list/
 
 **PAGE LIST**
 
-## Pages
-
+- [Personal Page](<https://xieyuen.github.io>)
+- [Blog Home](<{{ site.baseurl }}/>)
 - [About](<{{ site.baseurl }}/about>)
 - [Page List](<{{ site.baseurl }}/page-list> "你还想啥呢，就这篇")
