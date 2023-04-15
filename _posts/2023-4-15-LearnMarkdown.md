@@ -205,16 +205,26 @@ diff 不能同时和其他语言的高亮同时显示，且需要调整代码主
 行内公式使用方法，比如这个化学公式：$\ce{Hg^2+ ->[I-] HgI2 ->[I-] [Hg^{II}I4]^2-}$
 
 $$
-H_{2}SO_{4} + 2 NaHCO_{3} = 2 H_{2}O + 2 CO_{2} + Na_{2}SO_{4}
+  H_{2}SO_{4} + 2 NaHCO_{3} = 2 H_{2}O + 2 CO_{2} + Na_{2}SO_{4}
 $$
 
 $$
-CuSO_{4} + 2 NaOH = Cu\left(OH\right)_{2} \downarrow + Na_{2}SO_{4}
+  CuSO_{4} + 2 NaOH = Cu\left(OH\right)_{2} \downarrow + Na_{2}SO_{4}
+$$
+
+$$
+  2 NaHCO_{3} = Na_{2}CO_{3} + H_{2}O + CO_{2}
+$$
+
+$$
+  2 NaOH + CO_{2} = Na_{2}CO_{3} + H_{2}O 
 $$
 
 块公式使用方法如下：
 
-$$H(D_2) = -\left(\frac{2}{4}\log_2 \frac{2}{4} + \frac{2}{4}\log_2 \frac{2}{4}\right) = 1$$
+$$
+  H(D_2) = -\left(\frac{2}{4}\log_2 \frac{2}{4} + \frac{2}{4}\log_2 \frac{2}{4}\right) = 1
+$$
 
 矩阵：
 
