@@ -4,7 +4,9 @@ title: Markdown Learning Document
 permalink: /md-learning-document
 ---
 
-Markdown Learning Document
+Markdown Learning Document<br>
+Copy from [Markdown.com.cn](<markdown.com.cn>)
+
 
 >微信公众号排版工具。问题或建议，请公众号留言。**[程序员翻身](#jump_8)**
 
