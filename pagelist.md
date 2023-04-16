@@ -10,3 +10,4 @@ permalink: /page-list/
 - [Blog Home](<{{ site.baseurl }}/>)
 - [About](<{{ site.baseurl }}/about>)
 - [Page List](<{{ site.baseurl }}/page-list> "你还想啥呢，就这篇")
+- [Markdown Learning Document](<{{ site.baseurl }}/md-learning-document>)
