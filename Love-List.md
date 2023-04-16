@@ -8,7 +8,38 @@ Loves link
 
 ## 2023年
 
-- [4月](<{{ site.baseurl }}/love/2023/4>)
+### [4月](<{{ site.baseurl }}/love/2023/4>)
+- 盛世中华III【盛世中华】
+><iframe src="//player.bilibili.com/player.html?aid=69241910&bvid=BV19E41197Kc&cid=120004475&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+- 西游记之大圣归来》MV遇到戴荃老师原创歌曲...
+><iframe src="//player.bilibili.com/player.html?aid=2498218&bvid=BV1cs411S7DX&cid=3911962&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+- 【春晚鬼畜】赵本山：我就是念诗之王！【改革春风吹满地】
+    - Bilibili **1.1亿** 播放量！
+><iframe src="//player.bilibili.com/player.html?aid=19390801&bvid=BV1bW411n7fY&cid=31621681&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+- 《Proud of you》
+    - 一首很好听的歌
+><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1873634323&auto=1&height=66"></iframe>
+
+- [《黄河大合唱》！](<{{ site.baseurl }}/love/music/yellow-river-cantata>)
+><iframe src="//player.bilibili.com/player.html?aid=293154672&bvid=BV14f4y1E7Dk&cid=413639930&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+- [《Five Hundred Miles》](<{{ site.baseurl }}/posts/2023/4/500-miles>)
+><iframe src="//player.bilibili.com/player.html?aid=330624190&bvid=BV1FA411s7df&cid=262875402&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+- 《Last Text》
+><iframe src="//player.bilibili.com/player.html?aid=439188990&bvid=BV1wL411X77t&cid=1071917868&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+- 《In the Shadow of Sun》
+><iframe src="//player.bilibili.com/player.html?aid=341067722&bvid=BV1MR4y1P7T3&cid=584927500&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+- 《Unstoppable》
+><iframe src="//player.bilibili.com/player.html?aid=569440083&bvid=BV1Tv4y1p7wr&cid=1079677193&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+- 《So Far Way》
+><iframe src="//player.bilibili.com/player.html?aid=481949207&bvid=BV1FT411D7n1&cid=1011149122&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
 <div class="date">
