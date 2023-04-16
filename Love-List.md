@@ -8,7 +8,7 @@ Loves link
 
 ## 2023年
 
-- [4月](<{{ site.baseurl }}/love/2023/4.html>)
+- [4月](<{{ site.baseurl }}/love/2023/4>)
 
 
 <div class="date">
