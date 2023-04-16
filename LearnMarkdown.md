@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Markdown Learning Document
 permalink: /md-learning-document
 ---
