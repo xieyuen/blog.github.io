@@ -8,7 +8,7 @@ Loves link
 
 ## 2023年
 
-- [4月](<{{ site.baseurl }}/love/2023/4/list>)
+- [4月](<{{ site.baseurl }}/_posts/2023-4-30-love.md>)
 
 <span style="display:block;text-align:right;">
   Written on April 16th, 2023
