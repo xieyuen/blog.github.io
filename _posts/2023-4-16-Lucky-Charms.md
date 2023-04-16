@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 500 Miles
-permalink: /love/music/500-miles
+title: Lucky Charms
+permalink: /love/music/lucky-charms
 ---
 
 Don't remember the bad things. If you forget that, you will be happy
