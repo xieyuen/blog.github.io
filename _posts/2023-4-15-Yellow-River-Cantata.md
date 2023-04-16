@@ -8,6 +8,8 @@ permalink: /love/music/yellow-river-cantata
 
 <iframe src="//player.bilibili.com/player.html?aid=293154672&bvid=BV14f4y1E7Dk&cid=413639930&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=1&id=34751237&auto=1&height=430"></iframe>
+
 曲子分八个乐章，共有：
 
 >第一乐章：[**`《黄河船夫曲》`**](<https://music.163.com/#/song?id=419646043>)
@@ -15,6 +17,7 @@ permalink: /love/music/yellow-river-cantata
 >
 >第二乐章：[**`《黄河颂》`**](<https://music.163.com/#/song?id=419646044>)
 ><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=419646044&auto=1&height=66"></iframe>
+>
 >第三乐章：[**`《黄河之水天上来》`**](<https://music.163.com/#/song?id=419646045>)
 ><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=419646045&auto=1&height=66"></iframe>
 >
