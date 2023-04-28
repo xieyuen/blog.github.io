@@ -17,6 +17,19 @@
   <!-- Copy from Dmego -->
   <link rel="apple-touch-icon" href="{{ site.baseurl }}/images/apple-touch-icon.png">
   <link rel="icon" href="{{ site.baseurl }}/images/favicon.ico">
+
+  <!-- Latex 支持 -->
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <script> 
+    MathJax = {
+      tex: {
+        inlineMath: [['$', '$']],
+        processEscapes: true
+      }
+    };
+  </script>
+
 </head>
 
 <body>
