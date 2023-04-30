@@ -4,7 +4,7 @@ title: 4-27 因式分解专题练习答案
 permalink: /posts/2023/4/30/factorization-answer
 ---
 
-题目📜：[🔗](<{{ site.baseurl }}/posts/2023/4/27/factorization>)
+题目📜：[🔗](<{{ site.baseurl }}/posts/2023/4/28/factorization>)
 
 答案📝：
 
