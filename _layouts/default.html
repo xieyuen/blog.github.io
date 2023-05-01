@@ -1,34 +1,36 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
-    {% include meta.html %}
+<head>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
-    <!--[if lt IE 9]>
+  {% include meta.html %}
+
+  <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}"
+    href="{{ site.baseurl }}/feed.xml" />
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
 
-    <!-- Copy from Dmego -->
-    <link rel="apple-touch-icon" href="{{ site.baseurl }}/images/apple-touch-icon.png">
-    <link rel="icon" href="{{ site.baseurl }}/images/favicon.ico">
+  <!-- Copy from Dmego -->
+  <link rel="apple-touch-icon" href="{{ site.baseurl }}/images/apple-touch-icon.png">
+  <link rel="icon" href="{{ site.baseurl }}/images/favicon.ico">
 
-    <!-- Latex 支持 -->
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-    <script> 
-      MathJax = {
-        tex: {
-          inlineMath: [['$', '$']],
-          processEscapes: true
-        }
-      };
-    </script>
+  <!-- Latex 支持 -->
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <script>
+    MathJax = {
+      tex: {
+        inlineMath: [['$', '$']],
+        processEscapes: true
+      }
+    };
+  </script>
 
 </head>
 
@@ -47,7 +49,7 @@
           <a href="https://xieyuen.github.io">Home</a>
           <a href="{{ site.baseurl }}/">Blog</a>
           <a href="{{ site.baseurl }}/page-list">Page List</a>
-          
+
           <!--
           <a href="{{ site.baseurl }}/love">Loves List</a>
           -->
