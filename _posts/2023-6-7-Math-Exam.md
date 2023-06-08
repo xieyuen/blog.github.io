@@ -14,7 +14,7 @@ permalink: /posts/2023/6/2023-gk-math
 1. 证明： $ B _ { 2 } C _ { 2 } // A _ { 2 } D _ { 2 } $ ；
 2. 点 $ P $ 在棱 $ B B _ { 1 } $ 上，当二面角 $ P - A _ { 2 } C  _ { 2 } - D _ { 2 } $ 为 $ 150 ^ { \circ } $ 时，求 $ B _ { 2 } P $ .
 
-![题 18 图](<../pictures/2023-gk-math/20230608_111150.png>)
+![题 18 图](<{{ site.baseurl }}/pictures/2023-gk-math/20230608_111150.png>)
 
 <br><br>
 
