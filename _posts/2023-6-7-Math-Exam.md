@@ -98,7 +98,7 @@ permalink: /posts/2023/6/2023-gk-math
 
 15.已知函数 $f(x) = \cos \omega x - 1 ( \omega > 0 ) $ 在区间 $[ 0, 2 \pi ]$ 有且仅有三个零点，则 $\omega$ 的取值范围是______.
 
-16.已知双曲线 $ C: \frac{x^2}{a^2} - \frac{y^2}{b^2} = 1 ( a > 0 , b > 0 ) $ 的左右焦点分别为 $F_1$ ， $F_2$ . 点 $A$ 在 $C$ 上，点 $B$ 在 $y$ 轴上， $ \overrightarrow{F_1 A} \bot \overrightarrow{F_1 B} $ ， $ \overrightarrow{F_2 A} = - \frac{2}{3} \overrightarrow{F_2 B} $ ，则 $C$ 的离心率为______.
+16.已知双曲线 $ C: \cfrac{x^2}{a^2} - \cfrac{y^2}{b^2} = 1 ( a > 0 , b > 0 ) $ 的左右焦点分别为 $F_1$ ， $F_2$ . 点 $A$ 在 $C$ 上，点 $B$ 在 $y$ 轴上， $ \overrightarrow{F_1 A} \bot \overrightarrow{F_1 B} $ ， $ \overrightarrow{F_2 A} = - \frac{2}{3} \overrightarrow{F_2 B} $ ，则 $C$ 的离心率为______.
 
 ## 四、解答题
 
