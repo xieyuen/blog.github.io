@@ -42,7 +42,7 @@ permalink: /posts/2023/6/2023-gk-math
     3. $ \frac{\sqrt{10}}{4} $
     4. $ \frac{\sqrt{6}}{4} $
 
-7. 记 $S_{n}$ 为数列 $ \left \\{ a_{n} \right \\} $ 的前项和，设甲： $ \left \\{ a_{n} \right \\} $ 为等差数列；乙： $ \left \\{ \cfrac { S_{n} } { n } \right \\} $ 为等差数列，则 $(\qquad)$
+7. 记 $S_{n}$ 为数列 $ \left \\{ a_{n} \right \\} $ 的前项和，设甲： $ \left \\{ a_{n} \right \\} $ 为等差数列；乙： $ \left \\{ \frac { S_{n} } { n } \right \\} $ 为等差数列，则 $(\qquad)$
     1. 甲是乙的充分条件但不是必要条件
     2. 甲是乙的必要条件但不是充分条件
     3. 甲是乙的充要条件
