@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Markdown Learning Document
-permalink: /md-learning-document
+permalink: /pages/md-learning-document
 ---
 
 Markdown Learning Document<br>
@@ -64,6 +64,8 @@ Markdown是一种轻量级的「标记语言」。
 - 无序列表 2
   - 无序列表 2.1
   - 无序列表 2.2
+    - 无序列表 2.2.1
+  - 无序列表 2.3
 
 **由于微信原因，最多支持到二级列表**。
 
@@ -79,9 +81,9 @@ Markdown是一种轻量级的「标记语言」。
 
 引用的格式是在符号`>`后面书写文字。如下：
 
-> 读一本好书，就是在和高尚的人谈话。 ——歌德
+>读一本好书，就是在和高尚的人谈话。 ——歌德
 
-> 雇用制度对工人不利，但工人根本无力摆脱这个制度。 ——阮一峰
+>雇用制度对工人不利，但工人根本无力摆脱这个制度。 ——阮一峰
 
 ### 2.7 链接
 
@@ -205,22 +207,6 @@ diff 不能同时和其他语言的高亮同时显示，且需要调整代码主
 > 支持平台：微信公众号、知乎。
 
 行内公式使用方法，比如这个化学公式：$\ce{Hg^2+ ->[I-] HgI2 ->[I-] [Hg^{II}I4]^2-}$
-
-$$
-  H_{2}SO_{4} + 2 NaHCO_{3} = 2 H_{2}O + 2 CO_{2} + Na_{2}SO_{4}
-$$
-
-$$
-  CuSO_{4} + 2 NaOH = Cu\left(OH\right)_{2} \downarrow + Na_{2}SO_{4}
-$$
-
-$$
-  2 NaHCO_{3} = Na_{2}CO_{3} + H_{2}O + CO_{2}
-$$
-
-$$
-  2 NaOH + CO_{2} = Na_{2}CO_{3} + H_{2}O 
-$$
 
 块公式使用方法如下：
 
