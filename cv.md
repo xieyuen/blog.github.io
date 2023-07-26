@@ -8,7 +8,7 @@ permalink: /pages/cv/
 
 姓名: \*\*\*\*\*\*<br>
 住址: [\*\*\*\*\*\*](<> "广东省河源市东源县")<br>
-电子邮箱：[\*\*\*\*\*\*](<xieyuenol@outlook.com>), [\*\*\*\*\*\*](<xieyuenhm@hotmail.com>)
+电子邮箱：[\*\*\*\*\*\*](<mailto:email@xieyuen.link>)
 
 ### 荣誉/获奖
 
