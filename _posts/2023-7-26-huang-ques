@@ -4,7 +4,7 @@ title: 黄诗雯的问题
 permalink: /posts/2023/7/huang-ques
 ---
 
-![](<../pictures/2023-7-math-ques/20230726_091701.png>)
+![](<{{ site.baseurl }}/pictures/2023-7-math-ques/20230726_091701.png>)
 
 **【问】：**
 
@@ -12,7 +12,7 @@ permalink: /posts/2023/7/huang-ques
 
 **【解】：**
 
-![](<../pictures/2023-7-math-ques/20230726_091832.png>)
+![](<{{ site.baseurl }}/pictures/2023-7-math-ques/20230726_091832.png>)
 
 如图，过点 $C$ 作 $CF \parallel AB$ 交 $AE$ 于点 $F$ , <br>
 易证 $F$ 为 $AE$ 中点，$AF = EF = CF$<br>
