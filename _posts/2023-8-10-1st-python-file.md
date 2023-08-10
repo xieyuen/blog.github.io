@@ -2,7 +2,6 @@
 layout: post
 title: 我自己的第一个 MCDR 插件
 permalink: /posts/mcdr-plg/tools
-mcdr_url: https://github.com/Fallen-Breath/MCDReforged
 ---
 
 对 MC 服务器卡死无法关闭的情况做了优化
@@ -43,7 +42,7 @@ def exit(self, server: PluginServerInterface):
 
 ---
 
-不知道 [MCDR](<{{ mcdr_url }}> "全称 MCDReforged") 是什么？看[仓库](<{{ mcdr_url }}>)
+不知道 [MCDR](<https://github.com/Fallen-Breath/MCDReforged> "全称 MCDReforged") 是什么？看[仓库](<https://github.com/Fallen-Breath/MCDReforged>)
 
 ---
 
