@@ -7,7 +7,7 @@ permalink: /posts/2023/7/math-ques
 这道小题目有亿丢丢复杂，看下面（
 
 $$
-\cfrac { \cfrac { \int _ { 0 } ^ { + \infty } e ^ { - s } s ^ { 5 } \mathrm { d } x } { 2 } + \cfrac { \int _ { - \infty } ^ { + \infty } e ^ { - \frac { t ^ { 2 } } { 2 } } \mathrm { d } x  } { \int _ { 0 } ^ { + \infty } \sin t ^ { 2 } \mathrm { d } x } \left ( \cfrac { \sum _ { n = 0 } ^ { \infty } \dfrac { \left ( -1 \right ) ^ { n } } { 2 n + 1 } } { \int _ { 0 } ^ { + \infty } \dfrac { \sin x } { x } \mathrm { d } x } + \cfrac { \sum _ { n = 1 } ^ { \infty } \arctan \dfrac { 2 } { n ^ { 2 } } } { \lim _ { t \to 0 ^ { + } } \int _ { -2020 } ^ { 2020 } \dfrac { t \cos x } { x ^ { 2 } + t ^ { 2 } } \mathrm { d } x } \right ) } { \lim _ { n \to \infty } \left \{ \left [ \left ( \int_{0}^{1} \dfrac { x ^ { n - 1 } } { 1 + x } \mathrm { d } x  \right ) n - \dfrac { 1 } { 2 } \right ] \dfrac { n } { 2 } \right \} }
+{ \cfrac { \int _ { 0 } ^ { + \infty } e ^ { - s } s ^ { 5 } \mathrm { d } x } { 2 } + \cfrac { \int _ { - \infty } ^ { + \infty } e ^ { - \frac { t ^ { 2 } } { 2 } } \mathrm { d } x  } { \int _ { 0 } ^ { + \infty } \sin t ^ { 2 } \mathrm { d } x } \left ( \cfrac { \sum _ { n = 0 } ^ { \infty } \dfrac { \left ( -1 \right ) ^ { n } } { 2 n + 1 } } { \int _ { 0 } ^ { + \infty } \dfrac { \sin x } { x } \mathrm { d } x } + \cfrac { \sum _ { n = 1 } ^ { \infty } \arctan \dfrac { 2 } { n ^ { 2 } } } { \lim _ { t \to 0 ^ { + } } \int _ { -2020 } ^ { 2020 } \dfrac { t \cos x } { x ^ { 2 } + t ^ { 2 } } \mathrm { d } x } \right ) } \over { \lim _ { n \to \infty } \left \{ \left [ \left ( \int_{0}^{1} \dfrac { x ^ { n - 1 } } { 1 + x } \mathrm { d } x  \right ) n - \dfrac { 1 } { 2 } \right ] \dfrac { n } { 2 } \right \} }
 $$
 
 下面是题目的分解
